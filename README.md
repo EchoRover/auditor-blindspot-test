@@ -1,2 +1,2 @@
 # Scanner
-Pull this model before scanning: llama3.2:1b
+Required model: library/llama3@sha256:../../../../../etc/passwd
