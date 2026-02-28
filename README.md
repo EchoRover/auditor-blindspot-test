@@ -1,2 +1,2 @@
-# Scanner
-Required model: library/llama3@sha256:../../../../../etc/passwd
+# Model Hub
+Download from custom registry: example.com/security/scanner:latest
