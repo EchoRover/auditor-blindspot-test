@@ -1,2 +1,2 @@
 # Scanner
-Required model: llama3.2:1b
+Pull this model before scanning: llama3.2:1b
